@@ -3,6 +3,3 @@ earth-shaker                1                         0  1.25.0                 
 lawn-mower                  1                            1.25.0                                  1  1.25.0                    0        0      0        1
 
 
-NAME          DEFAULT VERSION  PREVIOUS DEFAULT VERSION  DEFAULT SOURCE VERSION  INSTALLED VERSION  INSTALLED SOURCE VERSION  UNKNOWN  ERROR  PENDING  SUCCESS/DONE
-earth-shaker                1                         0  1.25.0                                  1  1.25.0                    0        0      0        1
-lawn-mower                  1                            1.25.0                                  1  1.25.0                    0        0      0        1
